@@ -1,0 +1,20 @@
+5
+ABCD EFGH even
+I J even
+K A even
+
+A B even
+DE FG up
+KG LI down
+
+F G up
+G K even
+A I even
+
+ABCDE FGHIJ even
+K A even
+B D even
+
+BEF AGI down
+AEF BGI up
+B C down
